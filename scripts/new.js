@@ -81,7 +81,17 @@
 // var spec = prompt(question, defaultAnswer);
 // alert("Alert: "+spec)
 
-var numberOfCats = prompt("How many cats?");
-var tooManyCats = numberOfCats + 1;
-alert("Input: "+tooManyCats)
+// var numberOfCats = prompt("How many cats?");
+// var tooManyCats = numberOfCats + 1;
+// alert("Input: "+tooManyCats)
+
+
+
+
+// DAY 2
+
+var zakatPercent = 0.025
+var asset = 20
+var result = zakatPercent * asset
+alert("Your Amount: "+result)
 
