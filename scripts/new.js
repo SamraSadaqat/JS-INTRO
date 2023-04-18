@@ -90,8 +90,8 @@
 
 // DAY 2
 
-var zakatPercent = 0.025
-var asset = 20
-var result = zakatPercent * asset
-alert("Your Amount: "+result)
+// var zakatPercent = 0.025
+// var asset = 20
+// var result = zakatPercent * asset
+// alert("Your Amount: "+result)
 
